@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-9:/drawable_eurasian_wolf_2.jpg.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-11:/drawable/eurasian_wolf_2.jpg"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-9:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-11:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-9:/menu_activity_hello_world.xml.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-11:/menu/activity_hello_world.xml"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-9:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-11:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-9:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-11:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-9:/layout_activity_hello_world.xml.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-11:/layout/activity_hello_world.xml"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-9:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-11:/drawable-xhdpi/ic_launcher.png"
+    }
+]

@@ -4,5 +4,7 @@
     <string name="app_name">HelloWorldDemo</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="Jaalen_intro">Hello World! My name is Jaalen and I love android!</string>
+    <string name="button_text">Say Hello!</string>
 
 </resources>
