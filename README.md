@@ -1,6 +1,6 @@
 android_hello_world
 ===================
 
-Hello World Android App
+Hello World! This is a very simple app that says hi back to you when you click on the button!
 
-<img src="http://i.imgur.com/dio0DXF.png" width="450" />
+<img src="https://i.imgur.com/FWL9BM9.gif" width="450" />
